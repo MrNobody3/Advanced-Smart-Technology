@@ -1,0 +1,14 @@
+h2{
+    color:  #668cff;
+}
+.aboutImg{
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px 3px gray;
+}
+.aboutImg:hover{
+    opacity: 0.7;
+    transform: translate(5px, 10px);
+}
+.bold{
+    font-weight: bold;
+}
